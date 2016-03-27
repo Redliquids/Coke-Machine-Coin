@@ -1,0 +1,12 @@
+c:\users\red\documents\visual studio 2013\Projects\Coke Machine\Coke Machine\bin\Debug\Coke Machine.exe.config
+C:\Users\Red\Documents\Visual Studio 2013\Projects\Coke Machine\Coke Machine\bin\Debug\Coke Machine.exe
+C:\Users\Red\Documents\Visual Studio 2013\Projects\Coke Machine\Coke Machine\bin\Debug\Coke Machine.pdb
+C:\Users\Red\Documents\Visual Studio 2013\Projects\Coke Machine\Coke Machine\obj\Debug\Coke Machine.csprojResolveAssemblyReference.cache
+C:\Users\Red\Documents\Visual Studio 2013\Projects\Coke Machine\Coke Machine\obj\Debug\Coke Machine.exe
+C:\Users\Red\Documents\Visual Studio 2013\Projects\Coke Machine\Coke Machine\obj\Debug\Coke Machine.pdb
+E:\Coke Machine\Coke Machine\bin\Debug\Coke Machine.exe.config
+E:\Coke Machine\Coke Machine\obj\Debug\Coke Machine.exe
+E:\Coke Machine\Coke Machine\obj\Debug\Coke Machine.pdb
+E:\Coke Machine\Coke Machine\bin\Debug\Coke Machine.exe
+E:\Coke Machine\Coke Machine\bin\Debug\Coke Machine.pdb
+E:\Coke Machine\Coke Machine\obj\Debug\Coke Machine.csprojResolveAssemblyReference.cache

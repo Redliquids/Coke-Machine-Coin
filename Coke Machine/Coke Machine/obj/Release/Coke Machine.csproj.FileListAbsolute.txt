@@ -1,0 +1,5 @@
+C:\Users\Red\Documents\Visual Studio 2013\Projects\Coke Machine\Coke Machine\bin\Release\Coke Machine.exe.config
+C:\Users\Red\Documents\Visual Studio 2013\Projects\Coke Machine\Coke Machine\bin\Release\Coke Machine.exe
+C:\Users\Red\Documents\Visual Studio 2013\Projects\Coke Machine\Coke Machine\bin\Release\Coke Machine.pdb
+C:\Users\Red\Documents\Visual Studio 2013\Projects\Coke Machine\Coke Machine\obj\Release\Coke Machine.exe
+C:\Users\Red\Documents\Visual Studio 2013\Projects\Coke Machine\Coke Machine\obj\Release\Coke Machine.pdb
